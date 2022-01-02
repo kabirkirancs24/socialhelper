@@ -71,25 +71,8 @@
       </tr>
     </tbody>
   </table>
-  <h3><em><a href="contact.html">contact me---</a></strong></em></h3>
-  
-
-
-</body>
-
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>contact</title>
-</head>
-<body>
-    
-  <p><em>
-      <strong>Email</strong> <strong>:</strong> kabirkirancse11@gmail.com<br>
+ <h3>contact me</h3>
+   <strong>Email</strong> <strong>:</strong> kabirkirancse11@gmail.com<br>
       <strong>My linkedin profile</strong><strong>:</strong><a href="https://www.linkedin.com/in/kabir-kiran-2b7751213">
         kabir kiran</a>
     </em></p>
@@ -105,6 +88,9 @@
     <label>Message me</label>
     <textarea name="name" rows="10" cols="30"></textarea>
     <input type="submit" name="">
+  
+
 
 </body>
-</html>
+
+
